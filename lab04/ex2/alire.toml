@@ -1,0 +1,12 @@
+name = "ex2"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Azad"]
+maintainers = ["Azad <eaglewhite2004@gmail.com>"]
+maintainers-logins = ["TheXpingu1n"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["ex2"]

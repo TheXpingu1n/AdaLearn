@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__hello_world.o
+[PROJECT FILES]
+C:\Users\HP\OneDrive\Desktop\hello_world.gpr
+20240905104018 24df2f89b96ff13a0e4efb0e989c6697
+[BOUND OBJECT FILES]
+C:\Users\HP\OneDrive\Desktop\obj\hello_world.o
+[GENERATED SOURCE FILES]
+b__hello_world.ads
+b__hello_world.adb
+b__hello_world.ali
+[RESULTING OPTIONS]
+-LC:\Users\HP\OneDrive\Desktop\obj\
+-LC:\Users\HP\OneDrive\Desktop\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
